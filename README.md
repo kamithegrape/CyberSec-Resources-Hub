@@ -17,7 +17,7 @@ Explore the repository by navigating through the folders for specific categories
 2. [Learning Materials](./Learning_Materials/Beginner_Guides.md)  
 3. [Courses](./Courses/Free.md)  
 4. [Challenges](./Challenges/CTF_Platforms.md)  
-5. [Blogs and News](./Blogs_and_News/Blogs.md)  
+5. [Blogs and News](./Blogs_and_News/blogs.md)  
 
 ## Contributing  
 We welcome contributions from the community! Please check the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.  
