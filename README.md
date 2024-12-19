@@ -16,7 +16,7 @@ Explore the repository by navigating through the folders for specific categories
 1. [Tools](./Tools/tools.md)  
 2. [Learning Materials](./learning_materials/beginner_gudies.md)  
 3. [Courses](./cources/free.md)  
-4. [Challenges](./Challanges/CTF_Platforms.md)  
+4. [Challenges](./challanges/CTF_Platforms.md)  
 5. [Blogs and News](./Blogs_and_News/blogs.md)  
 
 ## Contributing  
