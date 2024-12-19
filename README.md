@@ -14,9 +14,9 @@ CyberSec Resources Hub is a comprehensive and well-organized collection of cyber
 ## Get Started  
 Explore the repository by navigating through the folders for specific categories:  
 1. [Tools](./Tools/tools.md)  
-2. [Learning Materials](./Learning_Materials/Beginner_Guides.md)  
-3. [Courses](./Courses/Free.md)  
-4. [Challenges](./Challenges/CTF_Platforms.md)  
+2. [Learning Materials](./Learning_Materials/beginner_guides.md)  
+3. [Courses](./courses/Free.md)  
+4. [Challenges](./Challenges/CTF_platforms.md)  
 5. [Blogs and News](./Blogs_and_News/blogs.md)  
 
 ## Contributing  
